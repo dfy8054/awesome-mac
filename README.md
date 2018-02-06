@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Recently, several friends asked me to recommend awesome applications for their Macs, so I decided to create this repo to share some useful applications. Feel free to PR if you also want to share with us your fantastic world of Mac.
+Recently, several friends asked me to recommend awesome applications for their Macs, so I decided to create this repo to share some useful applications. Feel free to PR if you also want to share us with your fantastic world of Mac.
 
 ---
 
@@ -13,7 +13,7 @@ _Advanced dual pane file manager and file transfer client for macOS.  -- Replace
 
 ![ForkLift](./pictures/Forklift.png) 
 
-##### _Useful features_
+#### _Useful features_
 
 * __Dual pane__ -- Move files more conveniently. (Do not need to open two Finders)
 * __Remote Connections__ -- Connect to SFTP, FTP, WebDAV, Amazon S3, Google Drive, Rackspace CloudFiles, SMB, AFP, and NFS remote volumes and easily manage your files quickly across networks.
@@ -27,7 +27,7 @@ _WWDC17 Apple Design Award Winner. Lightning-fast email client for Mac  -- Repla
 
 ![Airmail](./pictures/Airmail.png)
 
-##### _Useful features_
+#### _Useful features_
 
 * __A pretty face__
 * Compose messages in __Markdown.__
@@ -40,7 +40,7 @@ _iTerm2 is a terminal emulator for macOS that does amazing things -- Replacement
 ![iTerm2](./pictures/iTerm3.png)
 
 
-##### _Useful features_
+#### _Useful features_
 
 * __Hotkey Window__
 * __Support mouse actions__
