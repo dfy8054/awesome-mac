@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Recently, several friends asked me to recommend awesome applications for their Macs, so I decided to create this repo to share some useful applications. You can find the PDF version [here](./Awesome-Mac.pdf). __Feel free to PR if you also want to share us with your fantastic world of Mac.__
+Recently, several friends asked me to recommend awesome applications for their Macs, so I decided to create this repo to share some useful applications. __Feel free to PR if you also want to share us with your fantastic world of Mac.__
 
 **Table of Contents**
 
