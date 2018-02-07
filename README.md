@@ -325,7 +325,7 @@ Recommended by my friends. I usually use this app to take notes directly on the 
 
 _MindNode helps you visualize your ideas. Start with a central thought and then brainstorm, organize and share your mind maps._
 
-![MindNode](./pictures/Mindnode.png)
+![MindNode](./pictures/mindnode.png)
 
 I have been a fan of Mindmap for many years. MindNode is a simple application which well represents the idea of Mindmap.
 
