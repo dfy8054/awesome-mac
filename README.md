@@ -286,7 +286,7 @@ I have been finding this kind of applications for so long. For diagrammers, I ha
 
 _Quiver is a notebook built for programmers. It lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor, live preview Markdown and LaTeX, and find any note instantly via the full-text search._
 
-![Quiver](./pictures/quiver.png)
+![Quiver](./pictures/Quiver.png)
 
 Although many similar notebook applications such as Evernote, OneNote, DayOne are very good, I turn to Quiver. The reason is that it combines Latex cells, which means that I can even write down critical mathematic formulations conveniently when I take part in a research meeting.
 
@@ -325,7 +325,7 @@ Recommended by my friends. I usually use this app to take notes directly on the 
 
 _MindNode helps you visualize your ideas. Start with a central thought and then brainstorm, organize and share your mind maps._
 
-![MindNode](./pictures/MindNode.png)
+![MindNode](./pictures/Mindnode.png)
 
 I have been a fan of Mindmap for many years. MindNode is a simple application which well represents the idea of Mindmap.
 
