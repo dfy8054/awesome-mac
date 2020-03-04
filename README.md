@@ -43,6 +43,7 @@ Recently, several friends asked me to recommend awesome applications for their M
   - [23 Countdown Widget](#23-countdown-widget)
   - [24 MarginNote X](#24-marginnote-x)
   - [25 MindNode](#25-mindnode)
+  - [26 Taskade](#26-taskade)
 - [Similar Awesome Links](#similar-awesome-links)
 
 ### Section1  Replacement
@@ -329,6 +330,14 @@ _MindNode helps you visualize your ideas. Start with a central thought and then 
 
 I have been a fan of Mindmap for many years. MindNode is a simple application which well represents the idea of Mindmap.
 
+
+#### 26 [Taskade](https://taskade.com/)
+
+_Taskade is a realtime organization and collaboration tool for getting things done. Manage tasks, write notes, and video chat together, in one unified workspace. The app is available for Mac, iOS, and Web._
+
+![Taskade](./pictures/taskade.jpg)
+
+The app is many years in the making to create the ultimate remote work tool. It is free to use for personal tasks and team project collaboration.
 
 ---
 
